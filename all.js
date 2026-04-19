@@ -11,11 +11,11 @@
 // --- 設定 ---
 const CONFIG = {
     // 請填入您的 GCP Client ID
-    CLIENT_ID: '',
+    CLIENT_ID: '363181271550-ajlt77fku3hq6gr6roreb96gplj8u649.apps.googleusercontent.com',
     // 請填入您的 GCP API Key
-    API_KEY: '',
+    API_KEY: 'AIzaSyCkKWHn_QzPURbGBDBE49-FHyadMzQyyRA',
     // 請填入您的 Google Sheet ID
-    SPREADSHEET_ID: '',
+    SPREADSHEET_ID: '1Pk8CBE62TsNtnLYvvh830tqQe7MF0tEwQLkpZrzT6wc',
 
     // Google Sheets Discovery Doc
     DISCOVERY_DOC: 'https://sheets.googleapis.com/$discovery/rest?version=v4',
